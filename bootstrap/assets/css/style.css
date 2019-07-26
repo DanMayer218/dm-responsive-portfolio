@@ -1,0 +1,71 @@
+.body {
+
+    text-align: justify;
+    background-color: gray;
+    padding: 20px,40px,20px,40px;
+}
+
+.my-container {
+    width: 960px;
+    height:auto;
+    border:1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.my-row {
+    
+    border-style: solid;
+    border:1px;
+    border-color: black;
+    padding: 0px;
+}
+
+.my-col {
+    border:1px;
+    border-style: solid;
+    border-color: black;
+    
+}
+
+.headrow {
+    width:960px;
+    height: 80px;
+   
+}
+
+.headrow2 {
+   height: 300px;
+}
+.name {
+
+   
+    font-family: 'Jura', sans-serif;
+    font-size:30px;
+    display: inline-block;
+    width: 50%;
+    padding-top: 20px;
+  
+}
+.designer {
+
+    padding-top: 20px;
+    font-family: 'Jura', sans-serif;
+    font-size: 30px;
+    display: inline-block;
+    width: 50%;
+}
+.my-navs {
+    color: black;
+}
+.nav-item {
+    color:black;
+}
+
+.footer {
+    display: block;
+    width: 960px;
+}
+.my-col1 {
+    display: flex;
+}
